@@ -1,0 +1,62 @@
+[
+  {
+    "template": "{a}*x + {b} = {c}*x + {d}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*x + {b} = {c}*(x + {f}) + {e}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*(x + {b}) = {c}*(x + {f}) + {e}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*(x + {b}) = {c}*(x + {f}) + {e}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*(x + {b}) = {c}*(x + {f})",
+    "enabled": true
+  },
+  {
+    "template": "{a}*(x + {b}) - {c} = {e}*(x + {f})",
+    "enabled": true
+  },
+  {
+    "template": "{a}*x = {e}*(x + {f}) + {d}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*x - {b} = {c}*(x + {f}) - {e}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*(x + {b}) - {c}*x = {e}*(x + {f})",
+    "enabled": true
+  },
+  {
+    "template": "{a}*(x + {b}) = {c}*x + {d}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*x + {b} = {e}*(x + {f}) + {c}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*(x + {b}) + {c} = {e}*(x + {f}) + {d}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*(x + {b}) - {c} = {e}*(x + {f}) + {d}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*x + {b} = {c}*x + {e}",
+    "enabled": true
+  },
+  {
+    "template": "{a}*x - {b} = {e}*(x + {f})",
+    "enabled": true
+  }
+]
